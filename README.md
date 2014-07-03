@@ -19,13 +19,13 @@ that in an higher way.
 All the components are fully configured for the used Pin
 the configuration is done trought a JSON data 
 
-var exampleData={
+<b><i>var exampleData={
 		"pinAlimentation":3,
 		"pinDetect":'A0',
 		"delayDetection":1000,
 		"threshold":100
 };
-exampleComponent.config(exampleData);
+exampleComponent.config(exampleData);</b></i>
 
 
 
