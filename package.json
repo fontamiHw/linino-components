@@ -1,0 +1,9 @@
+{
+	"name": "keyBoard",
+	"version": "0.0.1",
+	"description": "Library to read a matrix Keyboard from LininoOne",
+	"main": "lib/linino-components",
+	"dependencies":{
+		"johnny-five":"*"
+	}
+}
